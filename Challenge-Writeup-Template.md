@@ -1,14 +1,14 @@
 ![img](assets/banner.png)
 
-<img src='assets/htb.png' style='zoom: 80%;' align=left /> <font size='10'><Challenge_Name></font>
+<img src='assets/htb.png' style='zoom: 80%;' align=left /> <font size='10'><Fu></font>
 
-1<sup>st</sup> August 2023
+18<sup>st</sup> April 2024
 
-Prepared By: `<author_name>`
+Prepared By: `ClamoresCocyti`
 
-Challenge Author(s): `<author_name>`
+Challenge Author(s): `ClamoresCocyti`
 
-Difficulty: <font color='orange'>Medium</font>
+Difficulty: <font color='Green'>Easy</font>
 
 <br><br>
 
@@ -111,5 +111,5 @@ def pwn():
 
 Avoid writing any function body here. Make sure you have written them under `Exploitation` or `Finding the vulnerability` sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDU5Nzc2Nl19
+eyJoaXN0b3J5IjpbOTA3MzE4NjY2XX0=
 -->
