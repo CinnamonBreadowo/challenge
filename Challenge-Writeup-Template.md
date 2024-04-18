@@ -8,7 +8,7 @@ Prepared By: `ClamoresCocyti`
 
 Challenge Author(s): `ClamoresCocyti`
 
-Difficulty: <font color='LightGreen'>Easy</font>
+Difficulty: <font color='Purple'>Easy</font>
 
 <br><br>
 
@@ -24,11 +24,9 @@ Difficulty: <font color='LightGreen'>Easy</font>
 
 ## Skills Required (!)
 
-- Python
-- Researching Skills
-- C/C++
-- Know how to use common RE tools (i.e. Ghidra, IDA)
-- ...
+- Basic knowledge of how a Web App functions
+- Know how to properly enumerate a website
+- - Know how to use common RE tools (i.e. Ghidra, IDA)
 
 ## Skills Learned (!)
 
@@ -111,5 +109,5 @@ def pwn():
 
 Avoid writing any function body here. Make sure you have written them under `Exploitation` or `Finding the vulnerability` sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Mjg3MjA3NF19
+eyJoaXN0b3J5IjpbLTE5ODc4MzE2NTcsMTA4Mjg3MjA3NF19
 -->
