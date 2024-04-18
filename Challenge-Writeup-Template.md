@@ -8,7 +8,7 @@ Prepared By: `ClamoresCocyti`
 
 Challenge Author(s): `ClamoresCocyti`
 
-Difficulty: <font color='Light Green'>Easy</font>
+Difficulty: <font color='LightGreen'>Easy</font>
 
 <br><br>
 
@@ -111,5 +111,5 @@ def pwn():
 
 Avoid writing any function body here. Make sure you have written them under `Exploitation` or `Finding the vulnerability` sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzNzYxNzU2XX0=
+eyJoaXN0b3J5IjpbMTA4Mjg3MjA3NF19
 -->
