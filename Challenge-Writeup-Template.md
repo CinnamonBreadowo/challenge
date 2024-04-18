@@ -1,6 +1,6 @@
 ![img](assets/banner.png)
 
-<img src='assets/htb.png' style='zoom: 80%;' align=left /> <font size='10'><Fu></font>
+<img src='assets/htb.png' style='zoom: 80%;' align=left /> <font size='10'>Fuzz Academy</font>
 
 18<sup>st</sup> April 2024
 
@@ -8,7 +8,7 @@ Prepared By: `ClamoresCocyti`
 
 Challenge Author(s): `ClamoresCocyti`
 
-Difficulty: <font color='Green'>Easy</font>
+Difficulty: <font color='Light Green'>Easy</font>
 
 <br><br>
 
@@ -111,5 +111,5 @@ def pwn():
 
 Avoid writing any function body here. Make sure you have written them under `Exploitation` or `Finding the vulnerability` sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3MzE4NjY2XX0=
+eyJoaXN0b3J5IjpbNzQzNzYxNzU2XX0=
 -->
