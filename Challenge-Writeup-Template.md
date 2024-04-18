@@ -26,14 +26,12 @@ Difficulty: <font color='Purple'>Easy</font>
 
 - Basic knowledge of how a Web App functions
 - Know how to properly enumerate a website
-- - Know how to use common RE tools (i.e. Ghidra, IDA)
+- Be able to determine what directories could be of interest
 
 ## Skills Learned (!)
 
-- Learn how SQLi works.
-- Learn how to unpack executables.
-- Learn how to solve linear systems of equations.
-- ...
+- Basic path traversal with wordlists
+- 
 
 # Enumeration (!)
 
@@ -109,5 +107,5 @@ def pwn():
 
 Avoid writing any function body here. Make sure you have written them under `Exploitation` or `Finding the vulnerability` sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODc4MzE2NTcsMTA4Mjg3MjA3NF19
+eyJoaXN0b3J5IjpbLTE0ODYzMzU4MDcsMTA4Mjg3MjA3NF19
 -->
