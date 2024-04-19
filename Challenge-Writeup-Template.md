@@ -19,8 +19,7 @@ Difficulty: <font color='Purple'>Easy</font>
 
 # Synopsis (!)
 
-- Briefly explain what the user must do to solve this challenge.
-
+- To complete this challenge, the player must answer the questions provided by answering the 
 ## Description (!)
 
 - ...
@@ -110,6 +109,6 @@ def pwn():
 
 Avoid writing any function body here. Make sure you have written them under `Exploitation` or `Finding the vulnerability` sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjcyNTQ5MCwtMTQ4NjMzNTgwNywxMD
-gyODcyMDc0XX0=
+eyJoaXN0b3J5IjpbOTg2NTkzMzU0LC0xNDg2MzM1ODA3LDEwOD
+I4NzIwNzRdfQ==
 -->
