@@ -1,6 +1,9 @@
 ![img](assets/banner.png)
 
-<img src='assets/htb.png' style='zoom: 80%;' align=left /> <font size='10'>Fuzz Academy</font>
+<img src='assets/htb.png' style='zoom: 80%;' align=left />
+
+
+ <font size='10'>Stepping Stones</font>
 
 18<sup>st</sup> April 2024
 
@@ -107,5 +110,6 @@ def pwn():
 
 Avoid writing any function body here. Make sure you have written them under `Exploitation` or `Finding the vulnerability` sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODYzMzU4MDcsMTA4Mjg3MjA3NF19
+eyJoaXN0b3J5IjpbMTI1NjcyNTQ5MCwtMTQ4NjMzNTgwNywxMD
+gyODcyMDc0XX0=
 -->
